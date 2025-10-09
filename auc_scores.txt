@@ -1,0 +1,4 @@
+columbianus: 0.992
+buttoni: 0.999
+dolichophallus: 1.000
+stramineus: 1.000
